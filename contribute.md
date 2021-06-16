@@ -1,12 +1,16 @@
 # Contribute
 
+### Roadmap
+
+{% embed url="https://github.com/balancer-labs/snapshot/projects/1?fullscreen=true" %}
+
 ### Bug reports
 
 {% embed url="https://github.com/balancer-labs/snapshot/issues/new" %}
 
 ### Feature request
 
-{% embed url="https://features.snapshot.org/feature-requests" caption="Request and vote for adding a new feature" %}
+{% embed url="https://github.com/balancer-labs/snapshot/issues/new" %}
 
 ### Snapshot client
 
@@ -14,7 +18,7 @@
 
 ### Tech stack
 
-{% embed url="https://snapshot.org/modern-report.html" %}
+{% embed url="https://snapshot.page/report.html" %}
 
 ### Snapshot hub
 
